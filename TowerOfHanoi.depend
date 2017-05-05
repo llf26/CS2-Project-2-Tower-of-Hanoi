@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1493959330 source:c:\users\larry\documents\ua classes\cs2\towerofhanoi\main.cpp
+	<iostream>
+	"towers.h"
+
+1493863137 source:c:\users\larry\documents\ua classes\cs2\towerofhanoi\src\mystack.cpp
+	"MyStack.h"
+
+1493959838 c:\users\larry\documents\ua classes\cs2\towerofhanoi\include\mystack.h
+	<iostream>
+
+1493950555 source:c:\users\larry\documents\ua classes\cs2\towerofhanoi\src\towers.cpp
+	<iostream>
+	"towers.h"
+	"mystack.h"
+	<math.h>
+
+1493952036 c:\users\larry\documents\ua classes\cs2\towerofhanoi\include\towers.h
+	"MyStack.h"
+
